@@ -1,4 +1,4 @@
 #!/bin/bash
 
-jar -cvf cmd.war cmd.jsp
+jar -cvf cmd.war cmd-win.jsp cmd-lin.jsp
 
